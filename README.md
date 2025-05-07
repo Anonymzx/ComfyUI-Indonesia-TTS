@@ -5,7 +5,7 @@ Repositori ini menyediakan integrasi model Text-to-Speech (TTS) Bahasa Indonesia
 ## 🔍 Ringkasan
 
 - Menggunakan model **facebook/mms-tts-ind** dari Hugging Face
-- Telah berhasil **mengonversi** `safetensors` agar bisa berjalan di ComfyUI  
+- Telah berhasil **menggunakan** `safetensors` agar bisa berjalan di ComfyUI  
 - Menyediakan node khusus dengan parameter: teks, model variant, kecepatan, pitch, reverb, delay, dan kualitas audio
 - Langsung drag-and-drop ke folder `custom_nodes` ComfyUI 
 
@@ -31,7 +31,7 @@ Repositori ini menyediakan integrasi model Text-to-Speech (TTS) Bahasa Indonesia
    ```
 ![Screenshot 2025-05-07 205608](https://github.com/user-attachments/assets/3bfcc2ea-6c2e-489d-8433-1fa59ce7f3e7)
 
-
-terima kasih!
+**I'm a beginner, so forgive me!**
+*terima kasih!*
 
 @Anonymzx
