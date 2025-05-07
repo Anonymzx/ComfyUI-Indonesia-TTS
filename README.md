@@ -11,7 +11,7 @@ Repositori ini menyediakan integrasi model Text-to-Speech (TTS) Bahasa Indonesia
 
 ## 🚀 Fitur Utama
 
-- **Support Bahasa Indonesia** via model MMS-TTS-IND :contentReference[oaicite:2]{index=2}  
+- **Support Bahasa Indonesia** via model MMS-TTS-IND :[contentReference[oaicite:2]{index=2} ](https://huggingface.co/facebook/mms-tts-ind) 
 - **Kontrol Speed** (0.5×–2.0×)  
 - **Pitch Shift** (±12 semitone)  
 - **Quality**: low / medium / high  
