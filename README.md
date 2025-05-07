@@ -29,6 +29,9 @@ Repositori ini menyediakan integrasi model Text-to-Speech (TTS) Bahasa Indonesia
    ```bash
    ~\ComfyUI\models\here
    ```
+   **Download Model Disini**
+   https://github.com/Anonymzx/ComfyUI-Indonesia-TTS/releases/tag/Indonesia-TTS
+   
    ![Screenshot 2025-05-07 205608](https://github.com/user-attachments/assets/3bfcc2ea-6c2e-489d-8433-1fa59ce7f3e7)
 
    **I'm a beginner, so forgive me!**
