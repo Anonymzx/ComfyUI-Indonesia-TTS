@@ -36,8 +36,6 @@ Repositori ini menyediakan integrasi model Text-to-Speech (TTS) Bahasa Indonesia
 
    **I'm a beginner, so forgive me!**
    *terima kasih!*
-
-   ***Credit***
    <br>
    **Special Thanks to Sanchit Gandhi for models**🙏
    <br>
