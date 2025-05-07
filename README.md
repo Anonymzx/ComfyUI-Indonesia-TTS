@@ -23,5 +23,13 @@ Repositori ini menyediakan integrasi model Text-to-Speech (TTS) Bahasa Indonesia
 1. Clone repositori ini ke dalam direktori `custom_nodes` ComfyUI:
    ```bash
    git clone https://github.com/Anonymzx/Indonesia-TTS-ComfyUI.git
+
+2. Taruh filenya disini untuk custom-nodes   
  ```bash
-     ~/ComfyUI/custom_nodes/Indonesia-TTS-ComfyUI
+ ~/ComfyUI/custom_nodes/Indonesia-TTS-ComfyUI
+
+2. ekstrak lalu taruh file model disini
+ ```bash
+  ~\ComfyUI\models\here
+
+
