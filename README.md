@@ -16,7 +16,7 @@ Repositori ini menyediakan integrasi model Text-to-Speech (TTS) Bahasa Indonesia
 - **Pitch Shift** (±12 semitone)  
 - **Quality**: low / medium / high  
 - **Efek Audio**: reverb & delay sederhana  
-- Integrasi mulus ke dalam workflow **ComfyUI** :contentReference[oaicite:3]{index=3}  
+- Integrasi mulus ke dalam workflow **ComfyUI** : Workflow tinggal pindahkan, cuma 1 node
 
 ## 📦 Instalasi
 
