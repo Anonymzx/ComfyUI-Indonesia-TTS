@@ -26,9 +26,9 @@ Repositori ini menyediakan integrasi model Text-to-Speech (TTS) Bahasa Indonesia
    ```
 
 2. Ekstrak lalu taruh file modelnya disini  
- ```bash
-  ~\ComfyUI\models\here
-```
+   ```bash
+   ~\ComfyUI\models\here
+   ```
 
 terima kasih!
 
