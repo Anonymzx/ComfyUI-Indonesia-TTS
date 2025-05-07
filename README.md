@@ -39,4 +39,5 @@ Repositori ini menyediakan integrasi model Text-to-Speech (TTS) Bahasa Indonesia
 
 **credit**
 thanks to Sanchit Gandhi for models🙏
-   @Anonymzx
+<br>
+@Anonymzx
